@@ -1,0 +1,26 @@
+body
+  {
+    height: 700px;
+  background-image: url("https://www.gratistodo.com/wp-content/uploads/2021/10/fondos-de-pantalla-aesthetic-gratistodo.com-3.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+  background-position: center center;
+  }
+
+  .p
+  {
+    color: aliceblue;
+    align-content: center;
+    text-align: center;
+  }
+
+  a {
+    background-color: rgb(255, 255, 255);
+    transition: background-color .5s;
+  }
+  
+  a:hover {
+    background-color: rgb(255, 96, 242);
+  }
+
+  

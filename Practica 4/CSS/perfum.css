@@ -1,0 +1,32 @@
+
+
+body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+background: #85ffcc;
+text-shadow: 1px 1px rgb(255, 255, 255);
+}
+
+header{
+    text-align: center;
+    padding: 40px 0;
+}
+img{
+
+    max-width: 25%;
+    border-radius: 50px;
+}
+
+.bluee
+{
+    margin-top: -460px;
+    max-width: 100%;
+}
+
+.whitee
+{
+    margin-top: -460px;
+    max-width: 100%;
+}
+

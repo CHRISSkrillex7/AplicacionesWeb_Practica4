@@ -1,0 +1,272 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' sans-serif;
+}
+
+body
+{
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container
+{
+    position: relative;
+    width: 1000%;
+    max-width: 650px;
+    min-height: 200px;
+    background-image: url(https://i.pinimg.com/originals/1c/94/84/1c948486052af80b2370a73cb7f02c23.jpg);
+    margin: 50px;
+    background-size: cover;
+background-repeat: no-repeat;
+  background-position: center center;
+    right: 200px ;
+    height: 420px;
+}
+
+.boogle
+{
+    font-family:'Franklin Gothic Medium';
+    position: relative;
+    right: -265px;
+    top: 140px;
+    font-size: 45px;
+    color: aliceblue;
+    text-shadow: 1px 1px black;
+    
+}
+
+
+
+.res .controls
+{
+    position: relative;
+    left: 205px;
+    top: 150px;
+    height: 20px;
+    width: 130px;
+     
+}
+
+
+.Button .controls
+{
+    position: relative;
+    left: 345px;
+    top: 130px;
+    height: 20px;
+    width: 130px;
+     
+}
+
+
+.search_bar .controls
+{
+    position: relative;
+    left: 205px;
+    top: 140px;
+    height: 20px;
+    width: 250px;
+     
+}
+
+.text
+{
+    text-decoration: underline;
+    position: relative;
+    left: 500px;
+    top: -70px;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text1
+{
+    text-decoration: underline;
+    position: relative;
+    left: 570px;
+    top: -88px;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text2
+{
+    text-decoration: underline;
+    position: relative;
+    left: 10px;
+    top: -105px;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text3
+{
+    text-decoration: underline;
+    position: relative;
+    left: 70px;
+    top: -123px;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255); 
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text4
+{
+    text-decoration: underline;
+    position: relative;
+    left: 153px;
+    top: -140px;
+    font-family:'Trebuchet MS'; 
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text5
+{
+    text-decoration: underline;
+    position: relative;
+    left: 214px;
+    top: -158px;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255); 
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text6
+{
+    text-decoration: underline;
+    position: relative;
+    left: 110px;
+    top: 140px;
+    font-family:'Trebuchet MS'; 
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text7
+{
+    text-decoration: underline;
+    position: relative;
+    left: 290px;
+    top: 123px;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255); 
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text8
+{
+    text-decoration: underline;
+    position: relative;
+    left: 460px;
+    top: 105px;
+    font-family:'Trebuchet MS'; 
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.text9
+{
+    text-decoration: underline;
+    position: relative;
+    left: 300px;
+    top: 120px;
+    font-family:'Trebuchet MS'; 
+    color: white;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    
+}
+
+.text10
+{
+    text-decoration: underline;
+    position: relative;
+    left: 460px;
+    top: -105px;
+    font-family:'Trebuchet MS'; 
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    
+}
+
+.line
+{
+    position: relative;
+    width: 2px;  
+    background-color: rgb(255, 255, 255); 
+    height: 35px;
+    float: left;
+    left: 60px;
+    top: -73px;
+    
+}
+
+.line1
+{
+    position: relative;
+    width: 2px;  
+    background-color: rgb(255, 255, 255); 
+    height: 35px;
+    float: left;
+    left: 130px;
+    top: -90px;
+    
+}
+
+.line2
+{
+    position: relative;
+    width: 2px;  
+    background-color: rgb(255, 255, 255); 
+    height: 35px;
+    float: left;
+    left: 195px;
+    top: -90px;
+    
+}
+
+.line3
+{
+    position: relative;
+    width: 2px;  
+    background-color: rgb(255, 255, 255); 
+    height: 35px;
+    float: left;
+    left: 560px;
+    top: -90px;
+    
+}
+
+.line4
+{
+    position: relative;
+    width: 2px;  
+    background-color: rgb(255, 255, 255); 
+    height: 35px;
+    float: left;
+    left: 435px;
+    top: 230px;
+    
+}
+
+.line5
+{
+    position: relative;
+    width: 2px;  
+    background-color: rgb(255, 255, 255); 
+    height: 35px;
+    float: left;
+    left: 265px;
+    top: 230px;
+    
+}
